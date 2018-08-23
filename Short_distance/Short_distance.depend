@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527017440 source:e:\c_programs\short_distance\main.c
+	"point.h"
+
+1527017119 e:\c_programs\short_distance\point.h
+	<stdio.h>
+	<stdlib.h>
+

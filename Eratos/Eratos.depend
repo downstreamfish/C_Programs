@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527005835 source:e:\c programs\eratos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"point_data.h"
+
+1527004733 e:\c programs\eratos\point_data.h
+

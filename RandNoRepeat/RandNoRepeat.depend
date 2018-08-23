@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527013271 source:e:\c programs\randnorepeat\main.c
+	<stdio.h>
+	<stdlib.h>
+

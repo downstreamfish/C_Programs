@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527070465 source:e:\c_programs\circlelistand\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Node.h"
+
+1527070714 e:\c_programs\circlelistand\node.h
+
+1527071059 source:e:\c_programs\circlelistand\node_opration.c
+	<stdio.h>
+	<stdlib.h>
+	"Node.h"
+
